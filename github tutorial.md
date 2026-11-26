@@ -38,3 +38,23 @@ you can add multiple if you want
 ## Push ##
 
 *** git push origin main***
+
+
+
+
+Main flow of our github
+
+1. git init (!bar e for one repo)
+2. git add .
+3. git commit -m "commit masssage"
+4. git branch -M main
+5. git remote add origin [github repo link/url]  *** 1 bar ***
+6. git push origin main
+
+
+
+## jkn kaj kortasen (already repo initiated) ##
+
+1. git add .
+2. git commit -m "-----"
+3. git push origin main
