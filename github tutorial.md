@@ -10,7 +10,7 @@
 
 \\ setup \\
 
-git init 
+git init (1 bar e)
 
 ------------------------
 
@@ -28,7 +28,13 @@ you can add multiple if you want
 
 ***git commit -m "name of commit"***
 
+## Branching ##
+*** git branch -M main ***
+
+## add remote origin ##
+*** git remote add {github url} ***
 
 
 ## Push ##
 
+*** git push origin main***
